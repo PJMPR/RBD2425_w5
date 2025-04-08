@@ -119,3 +119,26 @@ DROP VIEW deprecated_product_orders;
 
 📌 Widoki pomagają czytelnie prezentować dane, ukrywać złożoność i organizować logikę zapytań SQL.
 
+
+---
+
+
+### ❓ Po co tworzyć widok, skoro można napisać SELECT kiedy tylko chcę?
+- Czy widok może zwiększyć wydajność?
+- Czy pomaga w zespole? A może tylko przeszkadza?
+
+### ❓ Czy widok może się „zepsuć”?
+- Co jeśli zmienimy kolumny w tabelach źródłowych?
+
+---
+
+## ⚖️ Porównania i decyzje
+
+### ❓ Czy lepiej użyć widoku w aplikacji, czy SELECT-a bezpośrednio w kodzie?
+- Co z bezpieczeństwem?
+
+---
+
+📌 Te pytania nie mają „jednej dobrej odpowiedzi”
+
+
