@@ -1,6 +1,6 @@
 # 🎓 Mixowanie komend SQL – INSERT, UPDATE, DELETE z SELECT
 
-ziś przyjrzymy się **praktycznemu łączeniu komend SQL** takich jak `INSERT`, `UPDATE` i `DELETE` z zapytaniami `SELECT`. Ten temat jest niesamowicie użyteczny w codziennej pracy z bazą danych – pozwala dynamicznie modyfikować dane na podstawie innych danych.
+Dziś przyjrzymy się **praktycznemu łączeniu komend SQL** takich jak `INSERT`, `UPDATE` i `DELETE` z zapytaniami `SELECT`. Ten temat jest niesamowicie użyteczny w codziennej pracy z bazą danych – pozwala dynamicznie modyfikować dane na podstawie innych danych.
 
 ---
 
