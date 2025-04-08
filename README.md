@@ -54,3 +54,43 @@ Dzięki tej technice SQL staje się bardziej elastyczny, automatyczny i skalowal
 
 ---
 
+# 🎤 Slajdy pytaniowe: SQL – Mixowanie komend i widoki
+
+Zestaw pytań do dyskusji, analizy i wspólnego rozwiązywania podczas wykładu o `INSERT`, `UPDATE`, `DELETE` z `SELECT`, a także o `VIEW`. Format pasuje do prezentacji Markdown lub prowadzenia zajęć interaktywnych.
+
+---
+
+## 🔁 INSERT ... SELECT
+
+### ❓ Czy `INSERT INTO ... SELECT` to zawsze najlepsze rozwiązanie?
+- Co tracimy, a co zyskujemy?
+- Kiedy warto użyć `VALUES`, a kiedy `SELECT`?
+
+### ❓ Czy można przypadkiem zduplikować dane przy takim insercie?
+- Jak to zabezpieczyć?
+
+---
+
+## 🔄 UPDATE ... SELECT
+
+### ❓ Czy `UPDATE` z `SELECT` może być niebezpieczny?
+- Co się stanie, jeśli `SELECT` zwraca za dużo?
+- Co jeśli nie ma `WHERE`?
+
+### 💬 Zadanie: Podaj przykład UPDATE, który może się „wymsknąć spod kontroli”.
+
+---
+
+## 🧹 DELETE ... SELECT
+
+### ❓ Czy `DELETE FROM ... WHERE ... IN (SELECT ...)` to dobra praktyka?
+- Jak sprawdzić, co usuniemy, zanim klikniemy ENTER?
+- Co z relacjami i kluczami obcymi?
+
+### 💬 Zadanie: Zaprojektuj zapytanie DELETE, które usuwa dane niepowiązane z żadną inną tabelą.
+
+---
+
+📌 Te pytania nie mają „jednej dobrej odpowiedzi” – celem jest dyskusja, analiza i rozwijanie intuicji SQL.
+
+
