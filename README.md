@@ -54,7 +54,7 @@ Dzięki tej technice SQL staje się bardziej elastyczny, automatyczny i skalowal
 
 ---
 
-# 🎤 Slajdy pytaniowe: SQL – Mixowanie komend i widoki
+# 🎤 Q&A: SQL – Mixowanie komend i widoki
 
 Zestaw pytań do dyskusji, analizy i wspólnego rozwiązywania podczas wykładu o `INSERT`, `UPDATE`, `DELETE` z `SELECT`, a także o `VIEW`. Format pasuje do prezentacji Markdown lub prowadzenia zajęć interaktywnych.
 
